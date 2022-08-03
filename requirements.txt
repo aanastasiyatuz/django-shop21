@@ -4,3 +4,4 @@ djangorestframework
 djangorestframework-simplejwt
 pillow
 drf-yasg
+python-decouple
